@@ -1,4 +1,4 @@
-package test.example;
+package example;
 
 public class InvertString {
 	public static void main(String[] args) {

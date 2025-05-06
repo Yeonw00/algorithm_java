@@ -1,4 +1,4 @@
-package test.example;
+package example;
 
 public class StringReverser {
 	public static void main(String[] args) {
